@@ -1,0 +1,29 @@
+* {
+	margin: 0 auto;
+}
+
+.container {
+
+}
+
+#chat {
+	display: inline-block;
+	width: 70%;
+	height: 300px;
+	margin-bottom: 20px;
+	border: solid black 2px;
+	padding: 10px;
+}
+
+#message_box {
+	margin-left: 50px;
+	width: 70%;
+}
+
+#users {
+	vertical-align: top;
+	display: inline-block;
+	background-color: rgb(200, 200, 200);
+	width: 25%;
+	height: 300px;
+}
